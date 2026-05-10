@@ -1,7 +1,7 @@
 # Downloaded list :
 
 - [100MB](./100MB)
-- [installation](./installation)
+- [mhr-cfw-go-darwin-amd64](./mhr-cfw-go-darwin-amd64)
 
 ---
 
