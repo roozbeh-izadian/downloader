@@ -1,0 +1,48 @@
+# Visited: https://sinavm.github.io/sinavm/
+**Time:** Sun May 10 03:23:58 UTC 2026
+
+## Screenshot
+![Screenshot](./screenshot.png)
+
+## Raw HTML
+[page.html](./page.html)
+
+## Downloaded Media (1 files)
+## Downloaded Media Files
+
+![sinavm_logo_1.jpg](./media/sinavm_logo_1.jpg)
+
+## Other Links
+- [#](#)
+- [https://apps.apple.com/app/id6450534064](https://apps.apple.com/app/id6450534064)
+- [https://apps.apple.com/app/id6476628951](https://apps.apple.com/app/id6476628951)
+- [https://apps.apple.com/app/id6596777532](https://apps.apple.com/app/id6596777532)
+- [https://apps.apple.com/app/id6673731168](https://apps.apple.com/app/id6673731168)
+- [https://apps.apple.com/us/app/amneziavpn/id1600529900](https://apps.apple.com/us/app/amneziavpn/id1600529900)
+- [https://apps.apple.com/us/app/cisco-secure-client/id1135064690](https://apps.apple.com/us/app/cisco-secure-client/id1135064690)
+- [https://apps.apple.com/us/app/happ-proxy-utility/id6504287215](https://apps.apple.com/us/app/happ-proxy-utility/id6504287215)
+- [https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css)
+- [https://fonts.googleapis.com/css2?family=Vazirmatn:wght@300;500;700;900&display=swap](https://fonts.googleapis.com/css2?family=Vazirmatn:wght@300;500;700;900&display=swap)
+- [https://github.com/amnezia-vpn/amnezia-client/releases](https://github.com/amnezia-vpn/amnezia-client/releases)
+- [https://hiddify.com/fa/app/How-to-install-Hiddify-app/](https://hiddify.com/fa/app/How-to-install-Hiddify-app/)
+- [https://play.google.com/store/apps/details?id=app.hiddify.com](https://play.google.com/store/apps/details?id=app.hiddify.com)
+- [https://play.google.com/store/apps/details?id=com.cisco.anyconnect.vpn.android.avf](https://play.google.com/store/apps/details?id=com.cisco.anyconnect.vpn.android.avf)
+- [https://play.google.com/store/apps/details?id=com.happproxy](https://play.google.com/store/apps/details?id=com.happproxy)
+- [https://play.google.com/store/apps/details?id=com.v2raytun.android](https://play.google.com/store/apps/details?id=com.v2raytun.android)
+- [https://play.google.com/store/apps/details?id=io.nekohasekai.sfa](https://play.google.com/store/apps/details?id=io.nekohasekai.sfa)
+- [https://play.google.com/store/apps/details?id=org.amnezia.vpn](https://play.google.com/store/apps/details?id=org.amnezia.vpn)
+- [https://sinavm.github.io/anyconnect/](https://sinavm.github.io/anyconnect/)
+- [https://sinavm.github.io/sinavm/amnezia](https://sinavm.github.io/sinavm/amnezia)
+- [https://sinavm.github.io/sinavm/legal_pages/about.html](https://sinavm.github.io/sinavm/legal_pages/about.html)
+- [https://sinavm.github.io/sinavm/legal_pages/privacy.html](https://sinavm.github.io/sinavm/legal_pages/privacy.html)
+- [https://sinavm.github.io/sinavm/legal_pages/terms.html](https://sinavm.github.io/sinavm/legal_pages/terms.html)
+- [https://sinavm.github.io/sinavm/wireguard](https://sinavm.github.io/sinavm/wireguard)
+- [https://storage.v2raytun.com/v2RayTun_Setup.exe](https://storage.v2raytun.com/v2RayTun_Setup.exe)
+- [https://t.me/sinavm](https://t.me/sinavm)
+- [https://t.me/sinavm/4714](https://t.me/sinavm/4714)
+- [https://t.me/sinvt](https://t.me/sinvt)
+- [https://www.happ.su/main](https://www.happ.su/main)
+
+## Stats
+- Links: 30
+- Media: 1
