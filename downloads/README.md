@@ -7,6 +7,7 @@
 - [free-sub-link](./free-sub-link)
 - [melishekan-nv_01](./melishekan-nv_01)
 - [mhrv-rs-macos-amd64-app](./mhrv-rs-macos-amd64-app)
+- [obsidian-1.12.7.tar](./obsidian-1.12.7.tar)
 - [sinavm](./sinavm)
 - [v2RayTun_Setup](./v2RayTun_Setup)
 - [v2rayN-macos-64](./v2rayN-macos-64)
